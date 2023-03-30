@@ -6,6 +6,9 @@
   <img src="/profile/logo.svg" alt="Side">
 </picture>
 
+<br>
+<br>
+
 At Side, we’re **rebels with a cause**. <br>
 We’ve flipped the traditional brokerage model <br>
 on its head because we genuinely care about <br>
