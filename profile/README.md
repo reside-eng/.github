@@ -1,6 +1,10 @@
 <div align="center">
 
-![Side Logo](./logo.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile/logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/profile/logo.svg">
+  <img src="/profile/logo.svg" alt="Side">
+</picture>
 
 At Side, we’re **rebels with a cause**. <br>
 We’ve flipped the traditional brokerage model <br>
